@@ -1,4 +1,6 @@
 # 👾 CLM-Domino
+![https://clmdomino.com](https://raw.githubusercontent.com/mrzabbah/mrzabbah/master/clm_domino_banner.jpg)
+
 CLM Domino es una aplicación de consola que permite jugar, de forma local, partidas *1vs1* al Dominó, siguiendo las reglas estándar de este.
 
 Esta aplicación ha sido desarrollada como un proyecto universitario centrado en el manejo de estructuras de datos.
